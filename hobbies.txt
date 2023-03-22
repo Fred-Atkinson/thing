@@ -1,0 +1,6 @@
+hobbies.txt
+
+Three hobbies that I have are 
+1. I love to build legos
+2.I like to play video games
+3. i like to hang out with my friends
